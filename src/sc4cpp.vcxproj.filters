@@ -18,5 +18,28 @@
     <ClCompile Include="sc4cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="inject_explorer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sigLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inject_explorer_sz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sig_svcload_sz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sig_svcload_wh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\sc4cpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sc4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

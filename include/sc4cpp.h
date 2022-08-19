@@ -138,6 +138,10 @@ SC_FORCEINLINE PVOID GetProcAddressByHash(DWORD dwDLLHash, DWORD dwProcHash) {
         }
     }
     __debugbreak();
+    __debugbreak();
+    __debugbreak();
+    __debugbreak();
+    
     return NULL;  // No return
 }
 
